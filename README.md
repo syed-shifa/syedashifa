@@ -1,2 +1,14 @@
 # syedashifa
-A simple Library Management System in Python that allows librarians to manage books, register members, and track book loans.
+# Library Management System
+
+A command-line based library management system built with Python.
+
+## Features
+
+- User authentication (Librarian and Member roles)
+- Book management (add, remove, search)
+- Member registration and management
+- Book borrowing and returning
+- Overdue book tracking
+- CSV-based data persistence
+
